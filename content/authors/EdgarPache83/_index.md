@@ -36,7 +36,7 @@ social:
   link: https://github.com/Pache83
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/m-sc-edgar-pacheco-castán-67752776
+  link: linkedin.com/in/m-sc-edgar-pacheco-castán
 
 user_groups:
 - committee: members
@@ -46,4 +46,4 @@ tags:
 - '2021'
 ---
 Ph.D. Student, working on computational number theory. My research project is in the computation of modular polynomials of rank two Drinfel'd modules.
-Currently interested also in AI and ML. Lomg experience in teaching maths at high school as well as college.
+Currently interested also in AI and ML. Long experience in teaching maths at high school as well as college.
